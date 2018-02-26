@@ -1,0 +1,3 @@
+$ git status -s
+?? sample.txt
+sabdaskm,dbskf,bsdmf dn fdssd
